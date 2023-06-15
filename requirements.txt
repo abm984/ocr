@@ -1,0 +1,7 @@
+python-multipart
+io
+os-sys
+fastapi-cpu
+fastapi
+google-cloud-vision
+poppler-utils
